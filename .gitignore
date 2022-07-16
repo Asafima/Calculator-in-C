@@ -1,0 +1,17 @@
+#ignore
+*
+
+#exclude
+!*.c
+!*.h
+!*Makefile*
+!*makefile*
+!*.md
+!*/
+!.*
+!.sh
+!.so
+!.pdf
+!.jpg
+
+
